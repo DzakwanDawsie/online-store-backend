@@ -37,7 +37,7 @@ $ vim ormconfig.json
 
 5. Run migrations to create tables and seeding data samples
 ```
-$ npm run typeorm:run
+$ npm run migration:run
 ```
 
 6. Run the project
