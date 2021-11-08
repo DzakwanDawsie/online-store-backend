@@ -14,8 +14,8 @@ Simple backend API for online store
 
 ## Installation
 1. Clone repositories
-```
-$ git clone https://github.com/DzakwanDawsie/online-store-backend.git
+```console
+foo@bar:~$ git clone https://github.com/DzakwanDawsie/online-store-backend.git
 ```
 
 2. Install packages
